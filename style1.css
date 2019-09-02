@@ -1,0 +1,168 @@
+/* CSS Document */
+body
+{
+font:Verdana, Arial, Helvetica, sans-serif;
+background-color:#000000;
+margin:auto;
+padding:0.2em;
+}
+
+#kotak_logo
+{
+position:absolute;
+height:100px;
+width:135px;
+background-color:#FFFFFF;
+padding-top:3%;
+padding-right:2%;
+border:#000000 groove 3px;
+padding-left:4%;
+line-height:0.5px;
+left:70px;
+border-radius : 30px 0px 30px 0px;
+box-shadow:1px 1px 8px #fff;
+}
+
+#kotak_judul
+{
+position:absolute;
+background-color:#606060;
+height:85px;
+border:2px solid #FFFFFF;
+width:880px;
+padding-top:4%;
+padding-right:2%;
+padding-left:4%;
+line-height:0.5px;
+left:300px;
+border-radius : 30px 0px 30px 0px;
+box-shadow:1px 1px 8px #fff;
+}
+
+.teks_judul
+{
+font-family:Verdana, Helvetica, sans-serif;
+font-size:2em;
+color:gold;
+letter-spacing:0.5cm;
+}
+
+.teks1
+{
+font-family: sans-serif,Helvetica,Verdana;
+font-size:15pt;
+color:#FFFFFF;
+}
+
+.teks_bawah
+{
+font-family:sans-serif,Helvetica, Verdana;
+color:#FFFFFF;
+letter-spacing:0.1cm;
+}
+
+#kotak_nav_atas
+{
+position:absolute;
+background-color:;
+height:50px;
+width:900px;
+line-height:0.1px;
+left:50px;
+top:150px;
+padding:2em;
+border-bottom-width:0px;
+border-bottom-style:solid;
+border-bottom-color:#FFFFFF;
+}
+
+#kotak_nav_kanan
+{
+text-align:center;
+position:absolute;
+background-color:#00FF00;
+height:693px;
+border:2px solid #FFFFFF;
+width:180px;
+
+left:1050px;
+top:180px;
+padding:0.5cm;
+border-radius : 20px 20px 20px 20px;
+box-shadow:2px 2px 8px #fff;
+}
+
+#kotak_content
+{
+background-color: #0099FF;
+position : absolute;
+height:670px;
+width:935px;
+left:70px;
+top:180px;
+padding-top:3em;
+padding-bottom:1em;
+padding-left:1em;
+padding-right:1em;
+border:2px solid #FFFFFF;
+border-radius : 20px 20px 20px 20px;
+box-shadow:2px 2px 8px #fff;
+}
+#stylelink a:link
+{
+display:block;
+border-bottom:1px solid #cccccc;
+background-color:#9933CC;
+font-size:15pt;
+font-family:Georgia, "Times New Roman", Times, serif;
+color:#FFFFFF;
+height:20px;
+width:0px;
+}
+
+#stylelink a:hover
+{
+display:block;
+border-bottom:1px solid #cccccc;
+height:30px;
+background-color:;
+background-image:none;
+font-size:20pt;
+text-decoration:none;
+color:#0000FF; }
+
+#stylelink_atas a:link
+{
+border:2px solid #FFFFFF;
+background-color:#CCFF00;
+font-size:15pt;
+color:#0066FF;
+height:0px;
+padding-top:10px;
+padding-right:10px;
+padding-bottom:10px;
+padding-left:10px;
+text-decoration:none;
+}
+
+#stylelink_atas a:hover
+{
+border:2px solid #FFFFFF;
+height:45px;
+background-color:#996600;
+background-image:none;
+font-size:20px;
+text-decoration:none;
+color:#FFFFFF;
+}
+#kotak_bawah
+{
+background-color:;
+position : absolute;
+text-align:center;
+height:50px;
+width:1200px;
+left:50px;
+top:920px;
+padding:1em;
+}

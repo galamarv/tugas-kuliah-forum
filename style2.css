@@ -1,0 +1,243 @@
+/* CSS Document */
+
+body
+{
+font:Verdana, Arial, Helvetica, sans-serif;
+background:url(image/Lazio_Wallpaper.jpg);
+
+}
+#wrapper {
+width: 1000px;
+margin: 0 auto;
+}
+.header_atas{
+	background-color:#000;
+height:25px;
+margin-right:5px;
+margin-left:250px;
+border-color:#FFFFFF;
+border:10px;
+padding:20px;
+margin-top:-245px;
+opacity:0.1x; 	
+display:block;
+}
+.header
+{
+background-color:#FFF;
+height:210px;
+width:960px;
+border-color:#FFFFFF;
+border:10px;	
+padding:20px;
+border-radius : 30px 0px 30px 0px;
+opacity:0.1x; 	
+border-width: 3px;
+border-style: solid;
+
+}
+
+.container
+{
+	background-color:#FFF;
+	width: 960px;
+	margin-top: 200px;
+	padding: 10px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	border-radius : 30px 30px 30px 30px;
+	border-color: #FFFFFF;
+	border-width: 3px;
+	border-style: solid;
+}
+.containerbawah{
+	background:;
+	width: 960px;
+	margin-top: 40px;
+	padding: 10px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	border-radius : 30px 30px 30px 30px;
+	border-color: #FFFFFF;
+	border-width: 3px;
+	border-style: solid;
+}
+.sidebar
+{
+text-align:center;
+background-color:#00FF0F;
+margin-top:200px;
+height:300px;
+width:235px;
+padding:5px;
+border-radius : 30px 30px 30px 30px;
+border-color:#FFFFFF;
+border-width:3px;
+border-style:solid;
+opacity:0.9;
+}
+.sidebar_bawah
+{
+text-align:center;
+background-color:#FFF;
+margin-top:-300px;
+height:300px;
+width:235px;
+padding:5px;
+border-radius : 30px 30px 30px 30px;
+border-color:#FFFFFF;
+border-width:3px;
+border-style:solid;
+opacity:0.5;
+}
+
+.footer
+{
+background-color:;
+text-align:center;
+height:50px;
+padding-top:1em;
+padding-bottom:1em;
+}
+#stylelink a:link
+{
+display:block;
+border-bottom:1px solid #cccccc;
+background-color:#9933CC;
+font-size:15pt;
+font-family:Georgia, "Times New Roman", Times, serif;
+color:#FFFFFF;
+height:20px;
+width:0px;
+border-radius:10px 10px 10px 10px;
+}
+
+.teks_judul
+{
+font-family:Verdana, Helvetica, sans-serif;
+font-size:20px;
+color:gold;
+letter-spacing:0.5cm;
+}
+
+.teks1
+{
+font-family: Verdana,sans-serif,Helvetica;
+font-size:15pt;
+color:#C00;
+}
+
+.teks_bawah
+{
+font-family:sans-serif,Helvetica, Verdana;
+color:#000;
+letter-spacing:0.05cm;
+}
+
+#stylelink a:link
+{
+display:block;
+border-bottom:1px solid #cccccc;
+background-color:#9933CC;
+font-size:15pt;
+font-family:Georgia, "Times New Roman", Times, serif;
+color:#FFFFFF;
+height:20px;
+width:0px;
+}
+
+#stylelink a:hover
+{
+display:block;
+border-bottom:1px solid #cccccc;
+height:30px;
+background-color:;
+background-image:none;
+font-size:20pt;
+text-decoration:none;
+color:#0000FF; }
+
+#stylelink_atas a:link
+{
+border:2px solid #FFFFFF;
+background-color:#CCFF00;
+font-size:15pt;
+color:#0066FF;
+height:0px;
+padding-top:10px;
+padding-right:10px;
+padding-bottom:10px;
+padding-left:10px;
+text-decoration:none;
+border-radius:10px 10px 10px 10px;
+}
+
+#stylelink_atas a:hover
+{
+border:2px solid #FFFFFF;
+height:45px;
+background-color:#996600;
+background-image:none;
+font-size:20px;
+text-decoration:none;
+color:#FFFFFF;
+}
+#kotak_nav_atas
+{
+position:absolute;
+background-color:;
+height:20px;
+width:900px;
+line-height:0.1px;
+top:240px;
+padding:2em;
+border-bottom-width:0px;
+border-bottom-style:solid;
+border-bottom-color:#FFFFFF;
+}
+
+k{font-size:18px; color:#000; font-variant:small-caps; font-family:Arial, Helvetica, sans-serif;}
+a{color:#000; font-style:normal; text-decoration:none}
+table{
+	width:960px;
+	opacity:100}
+#kotak{
+	background:#F60;
+	padding:10px;
+	
+}
+#kotakdalam{
+	background:#0CF;
+	
+}
+td{
+	background-color:#FFF;
+}
+b{
+	color:#FFF;
+}
+linkTambahKat{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#00F;
+	font-size:15px;
+}
+
+#kotakpos{
+	padding:5px;
+border-radius : 30px 30px 30px 30px;
+border-color:rgb(0,153,255);
+	border-width: 3px;
+	border-style: solid;
+}
+#kotakkom{
+	padding:5px;
+border-radius : 30px 30px 30px 30px;
+border-color:rgb(0,153,255);
+	border-width: 3px;
+	border-style: solid;
+	
+}
+#kom{
+padding-left:50px;
+	background-color:rgb(255,255,255);
+}
